@@ -1,0 +1,61 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/cherryblossom.jpg");
+    background-size: cover;
+}
+
+.pendidikan{
+    height: 100vh;
+    background: url("../assets/pinkforest.jpg");
+    background-size: cover;
+}
+
+.images{
+    height: 300px;
+}
+
+.kemampuan{
+    height: 100vh;
+    background: url("../assets/pinktemple.jpg");
+    background-size: cover;
+}
+
+.project{
+    height: 100vh;
+    background: url("../assets/fox.jpg");
+    background-size: cover;
+}
+
+.sertifikat{
+    height: 270vh;
+    background: url("../assets/pinkcloud.jpeg");
+    background-size: cover;
+}
+
+.sertifikatImages{
+    height: 600px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.table{
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../assets/pinkcloud.jpeg");
+}
+
+.navbar{
+    background-color: hotpink;
+}
+
+.foto{
+    height: 450px;
+    justify-content: center;
+}
+
+.contact{
+    height: 150px;
+    background-color: hotpink;
+}
